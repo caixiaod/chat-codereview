@@ -19,4 +19,3 @@ python code_review_service.py
 ```shell
 sh restart_service.sh
 ```
-
